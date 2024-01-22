@@ -19,7 +19,27 @@
 
 
 
-
+<img src="assets/borderseperator.gif"/>
+  <h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/debayan990/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/Debayan990" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="assets/githublogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="mailto:debayanmukherjee990@gmail.com" target="_blank">
+    <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
+  </a> &nbsp;&nbsp;
+   <a href="https://dev.to/debayan990" target="_blank">
+    <img align="center" alt="My Dev.to link" height="50" width="50" src="assets/devtologo.png"/>
+</a> &nbsp;&nbsp;
+  <a>
+    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assets/discordlogo.png"/>
+    <span>Debayan990#0295</span>
+</p> 
 
 <!--
 **Debayan990/Debayan990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
