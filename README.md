@@ -18,6 +18,14 @@
 
 
 
+<div align="center">
+  <h2> <strong> Actively Learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,bootstrap," alt="skills actively learning logos"> <br> 
+  <h2> <strong> Plan to Learn </strong></h2>
+  <img src="https://skillicons.dev/icons?i=mongodb,react,express,netlify,flutter,kotlin" alt="skills planning to learn logos">
+</div>
+
+
 
 <img src="assets/borderseperator.gif"/>
   <h3 align="center">Connect With Me</h3>
