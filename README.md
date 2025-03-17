@@ -20,7 +20,7 @@
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,bootstrap,django" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,bootstrap,django" alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=mongodb,react,express,netlify,flutter,kotlin" alt="skills planning to learn logos">
 </div>
